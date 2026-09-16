@@ -112,16 +112,20 @@ Generated Response
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Murugan64&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+## 📊 GitHub Stats
+
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Murugan64&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Murugan's GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murugan64&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murugan64&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<p align="center">
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=Murugan64&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Murugan64&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
 </p>
 
 ---
