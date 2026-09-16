@@ -1,16 +1,22 @@
-## Hi there 👋
+Murugan K
+Computer Science Engineering Graduate
 
-<!--
-**Murugan64/Murugan64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java | Web Development | AWS
 
-Here are some ideas to get you started:
+        👇 PROFILE README 👇
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Hi, I'm Murugan K
+
+🚀 About Me
+
+🛠️ Technologies & Tools
+   Java
+   HTML
+   CSS
+   JavaScript
+   SQL
+   AWS
+   Git
+
+📌 Final year Project
+   🧠 VECTORAG
